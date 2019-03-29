@@ -7,6 +7,13 @@ body {
 
 }
 */
+div.sticky {
+  position: -webkit-sticky; /* for safari */
+  position: sticky;
+  top: 0;
+  padding: 0;
+  z-index: 1000;
+}
 
 .navbar {
   margin-bottom: 0;
