@@ -16,8 +16,8 @@ div.sticky {
 }
 
 .navbar {
+  padding-bottom: 0;
   margin-bottom: 0;
-  border-radius: 0;
 }
 
 .row.content{height: 1150px}
@@ -70,7 +70,7 @@ div.sticky {
 
 h2{
   font-family: lobster;
-  color: #ffa500;
+  text-shadow: 4px 2px 2px #FB6542;
 }
 
 h1,h2,h3,h4{text-align: center;}
