@@ -1,12 +1,10 @@
-/*
+
 body {
-//   width: 100%;
-//  margin: auto;
-//  background-color: #444158;
+
   font-family: Arial, Helvetica, sans-serif;
 
 }
-*/
+
 div.sticky {
   position: -webkit-sticky; /* for safari */
   position: sticky;
@@ -66,6 +64,12 @@ div.sticky {
 /*  width: 50%; */
 }
 
+h1{
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 3em ;
+}
 
 
 h2{
